@@ -1,0 +1,30 @@
+
+a:hover {
+    color: red;
+}
+.aboutList {
+    list-style-type: lower-roman;
+    margin: 0;
+    padding: 0;
+    display: block;
+    padding-left: 60px;
+}
+
+body {
+    font-family: roboto;
+    font-size: 15px;
+    background-attachment: fixed;
+    background-color: seashell;
+}
+
+
+input, textarea,button {
+    background-color: snow;
+}
+.AboubSection, .WorkSection, .ResumeSection, .ContactSection{
+    width: 30%;
+    position: relative;
+    left: 35%;
+}
+
+
